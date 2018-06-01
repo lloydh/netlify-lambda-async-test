@@ -1,0 +1,12 @@
+{
+  "name": "netlify-lambda-async-test",
+  "version": "1.0.0",
+  "main": "none",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-lambda": "^0.4.0"
+  },
+  "scripts": {
+    "serve-functions": "netlify-lambda serve src/functions"
+  }
+}
